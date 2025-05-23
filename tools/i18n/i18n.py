@@ -37,5 +37,5 @@ class I18nAuto:
 
 
 if __name__ == "__main__":
-    i18n = I18nAuto(language="en_US")
+    i18n = I18nAuto(language="zh_CN")
     print(i18n)
